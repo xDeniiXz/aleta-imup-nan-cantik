@@ -62,7 +62,7 @@ const messages = [
     "aku sedih banget...",
     "aku sedih sedih sedih bangett...",
     "ow gitu, yasuda aku gabakal nanya lagi...",
-    "Cuman bercanda hehe, bilang iya dong plss! ❤️"
+    "Cuman bercanda hehe, pilih iya dong plss! 🤍"
 ];
 
 let messageIndex = 0;
