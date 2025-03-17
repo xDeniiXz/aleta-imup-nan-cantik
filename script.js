@@ -54,15 +54,14 @@
 })();
 */
 const messages = [
-    "Kamu serius?",
-    "Bener bener serius??",
-    "Ayolaa plss...",
-    "Ayo pikirin lagii!",
-    "Kalo km jawab tidak, aku bakal sedih...",
-    "aku sedih banget...",
-    "aku sedih sedih sedih bangett...",
+    "kamu serius?",
+    "bener bener serius??",
+    "ayolaa plss...",
+    "ayo pikirin lagii!",
+    "kalo km jawab tidak, aku bakal sedih...",
+    "aku sedih bangett...",
     "ow gitu, yasuda aku gabakal nanya lagi...",
-    "Cuman bercanda hehe, pilih iya dong plss! 🤍"
+    "cuman bercanda hehe, pilih iya dong plss! 🤍"
 ];
 
 let messageIndex = 0;
